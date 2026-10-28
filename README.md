@@ -25,24 +25,31 @@
 2. [Chronological Era Timeline (2003 – 2022)](#2-chronological-era-timeline-2003--2022)
    - [Era I: The Genesis & The Golden Frontier (Fall 2003 – 2007)](#era-i-the-genesis--the-golden-frontier-fall-2003--2007)
    - [Era II: The Interregnum & The Rebirth (2008 – Mid 2009)](#era-ii-the-interregnum--the-rebirth-2008--mid-2009)
-   - [Era III: The Sovereign Forum Era & The Zenith of Power (Late 2009 – 2012)](#era-iii-the-sovereign-forum-era--the-zenith-of-power-late-2009--2012)
-   - [Era IV: Warfare, Scrims, Dramas & Rivalries (2010 – 2013)](#era-iv-warfare-scrims-dramas--rivalries-2010--2013)
+   - [Era III: The Sovereign Forum Era & The Zenith of Power (Late 2009 – 2010)](#era-iii-the-sovereign-forum-era--the-zenith-of-power-late-2009--2010)
+   - [Era IV: Warfare, Scrims, Dramas & Rivalries (2011)](#era-iv-warfare-scrims-dramas--rivalries-2011)
    - [Era V: Diversification, Migration & Maturation (2012 – 2015)](#era-v-diversification-migration--maturation-2012--2015)
    - [Era VI: The Revival Sparks & The Twilight of Web Forums (2016 – 2019)](#era-vi-the-revival-sparks--the-twilight-of-web-forums-2016--2019)
    - [Era VII: Pandemic Reunion, Modernization & The Eternal Legacy (2020 – 2022)](#era-vii-pandemic-reunion-modernization--the-eternal-legacy-2020--2022)
-   - [The Post-Website Era: Discord Migration, Modern Governance & Leadership](#the-post-website-era-discord-migration-modern-governance--leadership)
+   - [The Post-Website Era: Discord Migration, Modern Governance & Leadership (2022 – Present)](#the-post-website-era-discord-migration-modern-governance--leadership-2022--present)
 3. [The Organizational Matrix: Hierarchy, Tags & Squads](#3-the-organizational-matrix-hierarchy-tags--squads)
    - [The Tag Hierarchy](#the-tag-hierarchy)
    - [Military Ranks & The Revered Hall](#military-ranks--the-revered-hall)
    - [The Dual Roster Framework: Classical Military Hierarchy vs. Modern Discord Charter](#the-dual-roster-framework-classical-military-hierarchy-vs-modern-discord-charter)
    - [Specialized Squads](#specialized-squads)
    - [The Cadet Branch: Combat Experts Cadets (`=CEC=`)](#the-cadet-branch-combat-experts-cadets-cec)
-4. [Pivotal Figures & Hall of Fame Biographies](#4-pivotal-figures--hall-of-fame-biographies)
-   - [Founders, Supreme Commanders & High Command (Captains, Majors, Colonels, Generals & Revered)](#founders-supreme-commanders--high-command)
-   - [The Revered Hall of Fame Elders](#the-revered-hall-of-fame-elders)
-   - [The Officer Corps: Lieutenants & Modern Officers](#the-officer-corps-lieutenants--modern-officers)
-5. [The Server Bastions & Legendary Battlegrounds](#5-the-server-bastions--legendary-battlegrounds)
+4. [Notable Member Biographies & Historical Roster](#4-notable-member-biographies--historical-roster)
+   - [Founders & High Command (General, Colonel, Major, Captain)](#founders--high-command-general-colonel-major-captain)
+   - [Revered Veteran Members (Group #40)](#revered-veteran-members-group-40)
+   - [Lieutenants & Field Operatives](#lieutenants--field-operatives)
+5. [Dedicated Server Deployments & Key Battlegrounds](#5-dedicated-server-deployments--key-battlegrounds)
 6. [Clan Culture, Traditions & Memorable Lore](#6-clan-culture-traditions--memorable-lore)
+   - [The Blood Gulch Tryout Ritual & The 1v1 Gauntlet](#the-blood-gulch-tryout-ritual--the-1v1-gauntlet)
+   - [The Recruit Induction Protocol: "Welcome.txt"](#the-recruit-induction-protocol-welcometxt)
+   - [The Spam Forum, Forum Games & The 2000 Count](#the-spam-forum-forum-games--the-2000-count)
+   - [The Xfire Era & "Halownage" Archives](#the-xfire-era--halownage-archives)
+   - [The Running In-Game Reference: "Durelle.exe"](#the-running-in-game-reference-durelleexe)
+   - [The Mandatory Documentaries Rule (Forum 66)](#the-mandatory-documentaries-rule-forum-66)
+   - [Brotherhood Across Borders](#brotherhood-across-borders)
 7. [Epilogue: The 20-Year Legacy](#7-epilogue-the-20-year-legacy)
 
 ---
@@ -55,7 +62,7 @@ Over its nineteen active years recorded in the web archives and its continued pr
 - An **undefeated competitive record** in early clan wars (30 multi-map matches, 0 defeats).
 - Military-grade organizational discipline, complete with strict promotional criteria, anti-cheat surveillance, and detailed logging.
 - An artistic and technical output spanning custom Halo maps, competitive montages, graphics suites, podcasts, and server automation tools.
-- A profound bond of brotherhood that saw teenage gamers grow into engineers, architects, soldiers, programmers, and leaders, keeping their community alive across two decades.
+- A durable community culture that saw early recruits grow into adulthood, technical careers, and leadership, maintaining an active fellowship across two decades.
 
 ---
 
@@ -64,12 +71,12 @@ Over its nineteen active years recorded in the web archives and its continued pr
 ```mermaid
 flowchart TD
     E1["Era I: Genesis & Frontier<br/>(2003 - 2007)<br/>• Founded by «CE»Leader<br/>• Halo CE Launch<br/>• 30-0 Scrim Record"]
-    E2["Era II: Interregnum & Rebirth<br/>(2008 - Early 2009)<br/>• Leader departs for RPI<br/>• Addict & Morbus take reins<br/>• InvisionFree era"]
-    E3["Era III: The Zenith of Power<br/>(Late 2009 - 2012)<br/>• Self-hosted phpBB launch<br/>• 110k+ posts written<br/>• Fancy Tags & Squads"]
-    E4["Era IV: Warfare & Rivalries<br/>(2010 - 2013)<br/>• The POQ crisis & =DG= birth<br/>• Dragon Knights challenge<br/>• Anti-cheat Crusade"]
+    E2["Era II: Interregnum & Rebirth<br/>(2008 - Mid 2009)<br/>• Leader departs for RPI<br/>• Addict & Morbus take reins<br/>• InvisionFree era"]
+    E3["Era III: Zenith of Power<br/>(Late 2009 - 2010)<br/>• Self-hosted phpBB launch<br/>• 80k+ posts written<br/>• Fancy Tags & Squads"]
+    E4["Era IV: Warfare & Rivalries<br/>(2011)<br/>• The =DG= sister alliance<br/>• Dragon Knights challenge<br/>• Anti-cheat Crusade"]
     E5["Era V: Diversification<br/>(2012 - 2015)<br/>• Multi-Gaming & A§H» Alliance<br/>• March 2014 Tournament<br/>• Top 30 GameTracker server"]
     E6["Era VI: Revival Sparks<br/>(2016 - 2019)<br/>• 2016 4-Clan Coalition<br/>• ElDewrito / Halo Online<br/>• Shift toward Discord"]
-    E7["Era VII: Legacy & Modernization<br/>(2020 - 2022+)<br/>• MCC on Steam & Community Revival<br/>• Archive Preservation<br/>• Discord Transition & Chance as Leader"]
+    E7["Era VII: Legacy & Modernization<br/>(2020 - 2022)<br/>• MCC on Steam & Community Revival<br/>• Archive Preservation<br/>• Discord Transition & Chance as Leader"]
 
     E1 --> E2 --> E3 --> E4 --> E5 --> E6 --> E7
 ```
@@ -103,7 +110,7 @@ This level of tactical discipline gave `=CE=` an unprecedented competitive recor
 
 ### Era II: The Interregnum & The Rebirth (2008 – Mid 2009)
 
-In late 2007 / early 2008, the founding era came to an unexpected halt. «CE»Leader was accepted into one of the world's most prestigious electrical engineering institutions—the Electric Power Engineering program at Rensselaer Polytechnic Institute (RPI). Facing grueling academic demands, Leader made the difficult decision to abruptly step away from gaming, shutting down the original clan operations virtually overnight. Falcon transitioned into the Army Rangers, and the clan seemed destined to become a legend of early Halo.
+In late 2007 / early 2008, the founding era came to an unexpected halt. «CE»Leader was accepted into one of the world's most prestigious electrical engineering institutions—the Electric Power Engineering program at Rensselaer Polytechnic Institute (RPI). Facing grueling academic demands, Leader made the difficult decision to abruptly step away from gaming, shutting down the original clan operations virtually overnight. Falcon transitioned into the Army Rangers, and the original clan operations drew to a close.
 
 However, the spirit of `=CE=` refused to die. A core cadre of loyal members, led by **«CE»Addict** alongside veteran **Morbus**, resolved to resurrect the clan. Recognizing the legacy they inherited, Addict contacted «CE»Leader to seek his blessing. Leader formally passed the torch, commending Addict's honor, tactical acumen, and preservation of the original clan aura.
 
@@ -116,29 +123,28 @@ On **May 9, 2009**, the reformed clan structure was formally codified, marking t
 
 ---
 
-### Era III: The Sovereign Forum Era & The Zenith of Power (Late 2009 – 2012)
+### Era III: The Sovereign Forum Era & The Zenith of Power (Late 2009 – 2010)
 
 By late 2009, InvisionFree's hosted service proved too limited for the clan's expanding ambitions. Under the technical leadership of **«CE»Addict**, **=CE=Toxic**, **«CE»Chance**, **Ithiane (Aegisdragon)**, and **=CE=Alteran (Lantean)**, the clan acquired its own domain and launched an independent, self-hosted phpBB 3 community platform: `combatexpertsclan.com`.
 
-The transition on **December 18, 2009** unleashed an explosion of community activity. Within seven days of launch, members generated 1,469 posts. By the end of 2010, the community had authored **79,305 posts in a single calendar year**, followed by **34,665 posts in 2011**, creating a vibrant digital home of over 143,000 public contributions.
+The transition on **December 18, 2009** unleashed an explosion of community activity. Within the first two weeks of launch, members generated over 2,500 posts, averaging nearly 200 posts per day. By the end of 2010, the community had authored **79,305 posts in a single calendar year**, followed by **34,665 posts in 2011**, creating a vibrant digital home of over 143,000 public contributions.
 
-```text
-┌────────────────────────────────────────────────────────┐
-│             ANNUAL FORUM ACTIVITY MATRIX               │
-├──────────────┬────────────────────────┬────────────────┤
-│    Year      │      Public Posts      │  Era Dynamic   │
-├──────────────┼────────────────────────┼────────────────┤
-│ 2009 (Dec)   │         2,502          │ Board Launch   │
-│ 2010         │        79,305          │ Golden Peak    │
-│ 2011         │        34,665          │ High Stability │
-│ 2012         │        17,029          │ Multi-Gaming   │
-│ 2013         │         7,019          │ Mature Cadre   │
-│ 2014         │         1,418          │ Real-Life Shift│
-│ 2015         │           821          │ Server Focus   │
-│ 2016 – 2019  │           416          │ ElDewrito Era  │
-│ 2020 – 2022  │            74          │ MCC & Legacy   │
-└──────────────┴────────────────────────┴────────────────┘
-```
+**Annals of Community Discourse: Archival Record of Annual Volume & Era Dynamics (2009 – 2022)**
+
+The quantitative pulse of the phpBB platform mirrors the life cycle of early 2010s PC gaming communities—from the explosive enthusiasm of independent self-hosting to the gradual migration toward modern real-time platforms:
+
+| Historical Epoch / Year | Verified Public Posts | Era Dynamics & Cultural Milestones |
+| :--- | :---: | :--- |
+| **2009 (Dec 18–31)** | **2,502** | **The Sovereign Inception:** Rapid migration from InvisionFree to the independent domain `combatexpertsclan.com`. Over 2,500 posts were authored in the first two weeks as the brotherhood established custom themes, graphics suites, rank insignia, and foundational governance. |
+| **2010** | **79,305** | **The Golden Zenith & Institutional Expansion:** The most prolific single year in clan history, averaging over 217 public posts per day. Defined by the formal codification of the Fancy Tag leadership echelon (`«CE»`), establishment of the RCON Squad and Documentaries archive (Forum 66), the POQ migration, the founding of the `=DG=` alliance, and a massive surge in recruitment. |
+| **2011** | **34,665** | **Competitive Maturation & Inter-Clan Warfare:** Sustained high operational activity averaging ~95 posts per day. The competitive peak of organized clan wars, formal challenge registries (Forums 79/80), the `{DK}` Dragon Knights Blood Gulch showdown, and extensive anti-cheat hash-ban campaigns protecting the dedicated servers. |
+| **2012** | **17,029** | **Diversification & The Biographies Initiative:** Stabilization of daily forum posting offset by branch-outs into contemporary PC titles (*Team Fortress 2*, *Call of Duty: Modern Warfare 2*, *Minecraft*, *Planetside 2*). Highlighted by the launch of the *Clan Biographies* project (Forum 104) and early fraternal ties with sister clan `A§H»`. |
+| **2013** | **7,019** | **The Veteran Cadre & Collegiate Transition:** Maturation of the adolescent 2008–2010 cohort into university and professional careers. Board discourse shifted from raw post counts to personal milestones, technical server maintenance, and strategic inter-clan diplomacy. |
+| **2014** | **1,418** | **The Fraternal Alliance & Real-Life Milestones:** Core activity consolidated around dedicated server matches and collaborative multi-clan events, headlined by the March 2014 multi-mode friendly tournament against `A§H»`. Real-time daily coordination increasingly migrated to voice platforms (Xfire, TeamSpeak). |
+| **2015** | **821** | **The Dedicated Server Bastion:** Focused operational stewardship of the dedicated server fleet. Achieved the historic milestone of a `=CE=` dedicated Halo CE server ranking in the Top 30 globally on GameTracker a full twelve years after founding. |
+| **2016 – 2019** | **416** | **The Twilight of Web Boards & The ElDewrito Spark:** The four-clan coalition pact (`=CE=`, `=DG=`, `A§H»`, `«RG»`) in early 2016 to sustain classic PC Halo; temporary resurgence in Forum 108 around *ElDewrito* (Halo Online) game nights; permanent day-to-day community migration to the official `=CE=` Discord server. |
+| **2020 – 2022** | **30** | **The Pandemic Reunion, MCC PC & Archival Preservation:** Veterans reassembled on Steam for *Halo: The Master Chief Collection* and lockdown voice lobbies; containerization of the nineteen-year legacy codebase; transition of clan leadership to `«CE»Chance`; final reflective forum entry on January 14, 2022. |
+| **Total** | **143,205** | **Nineteen years of continuous digital history preserved across 11,499 community topics.** |
 
 This era was characterized by an elaborate military organizational structure. The community introduced distinct, prestigious symbols of leadership:
 - **The Fancy Tags (`«CE»`):** Reserved exclusively for members of Leader rank—the highest honor achievable in the clan. Leaders bearing fancy tags during this era included `«CE»Addict`, `«CE»Thorn`, `«CE»eden`, `«CE»Chance`, `«CE»Music`, and `«CE»Fuyuri`.
@@ -153,7 +159,7 @@ To keep operations running smoothly, `=CE=` instituted specialized squads:
 
 ---
 
-### Era IV: Warfare, Scrims, Dramas & Rivalries (2010 – 2013)
+### Era IV: Warfare, Scrims, Dramas & Rivalries (2011)
 
 The high visibility of `=CE=` dedicated servers made the clan a central player in community diplomacy, intense rivalries, and external conflicts.
 
@@ -191,13 +197,13 @@ Because `=CE=` hosted the most populated public servers in Halo CE (including *C
 
 ### Era V: Diversification, Migration & Maturation (2012 – 2015)
 
-By 2012, the PC gaming ecosystem had broadened significantly. While Halo Custom Edition remained the spiritual bedrock of the clan, members actively branched out into contemporary titles. Dedicated squads were mobilized for *Team Fortress 2*, *Call of Duty: Modern Warfare 2*, *Garry's Mod*, *Minecraft* (with custom clan server builds), and *Planetside 2*, while competitive teams tested the waters in *Halo 2 Vista*.
+By 2012, the PC gaming ecosystem had broadened significantly. While Halo Custom Edition remained the foundational game of the clan, members actively branched out into contemporary titles. Dedicated squads were mobilized for *Team Fortress 2*, *Call of Duty: Modern Warfare 2*, *Garry's Mod*, *Minecraft* (with custom clan server builds), and *Planetside 2*, while competitive teams tested the waters in *Halo 2 Vista*.
 
 During this era, a vital sister alliance formed with the **`A§H»` Clan (The A§H Clan, theASHclan.org)**, established around 2012 by **Crash** and **SONOR** (after BMF inspired Sonor, Sonor reached out to Crash, and the two co-founded the clan with Crash serving as its primary founder and guiding leader). Rapidly gaining acclaim for their well-moderated dedicated servers, `A§H»` became a close companion community to `=CE=`. Strong friendships crossed between the two rosters, with players like **`=DG=Enzo`**, **`Mandalor` (formerly `sHiNe!`)**, **`Voltagen`**, and former `=CE=` veteran **`=CE=Greed`** (`br0wnbr0th4`) sharing active ties across both clans.
 
-This alliance culminated in an epic event in March 2014 (Topic #12394), when `A§H»Killer` (former `FoV` Hitman) proposed a multi-mode friendly tournament between `=CE=` and `A§H»` across both clans' servers. Featuring an intricate bracket scoring system (1 point per CTF capture, 1 point per Slayer kill, 5 points for the last survivor in Zombies, up to 75 points max), the tournament brought together `A§H»Killer`, `Mandalor`, `Enzo`, `Willrok`, `Voltagen`, and `Runriot` against `=CE=`'s `«CE»Addict`, `=CE=Giuli`, `=CE=Shy`, `=CE=Warthog`, and `=CE= Pydro`. The event highlighted the warm sportsmanship and mutual respect that carried both communities forward.
+This alliance culminated in an organized event in March 2014 (Topic #12394), when `A§H»Killer` (former `FoV` Hitman) proposed a multi-mode friendly tournament between `=CE=` and `A§H»` across both clans' servers. Featuring an intricate bracket scoring system (1 point per CTF capture, 1 point per Slayer kill, 5 points for the last survivor in Zombies, up to 75 points max), the tournament brought together `A§H»Killer`, `Mandalor`, `Enzo`, `Willrok`, `Voltagen`, and `Runriot` against `=CE=`'s `«CE»Addict`, `=CE=Giuli`, `=CE=Shy`, `=CE=Warthog`, and `=CE= Pydro`. The event highlighted the warm sportsmanship and mutual respect that carried both communities forward.
 
-Simultaneously, the Biographies project launched in November 2012 by `«CE»Fuyuri` (Forum 104) captured a poignant transition: the adolescent recruits of 2008–2010 were graduating from high school and university, entering careers, and navigating adult milestones. `«CE»Thorn` was advancing in architecture and CAD design in Australia; `«CE»Chance` was pursuing software engineering at the University of West Florida; `«CE»Fuyuri` was building an IT career in New Zealand; `=CE=Ground` was rising from a high school freshman to Colonel while pursuing computer engineering; `=CE=Exeon` was balancing astrophysics studies at UCL with work at BAE Systems; `=CE=Four` (Inferno) was balancing full-time work and college prep in Ohio, rising to Captain twice; and `=CE=Durelle` was working in web infrastructure in Canada while maintaining his legendary sniping reputation (*"Durelle.exe"*).
+Simultaneously, the Biographies project launched in November 2012 by `«CE»Fuyuri` (Forum 104) captured a poignant transition: the adolescent recruits of 2008–2010 were graduating from high school and university, entering careers, and navigating adult milestones. `«CE»Thorn` was advancing in architecture and CAD design in Australia; `«CE»Chance` was pursuing software engineering at the University of West Florida; `«CE»Fuyuri` was building an IT career in New Zealand; `=CE=Ground` was rising from a high school freshman to Colonel while pursuing computer engineering; `=CE=Exeon` was balancing astrophysics studies at UCL with work at BAE Systems; `=CE=Four` (Inferno) was balancing full-time work and college prep in Ohio, rising to Captain twice; and `=CE=Durelle` was working in web infrastructure in Canada while maintaining a prominent sniping reputation (*"Durelle.exe"*).
 
 Despite the aging of Halo CE's master browser, `=CE=`'s technical staff maintained exceptional round-the-clock stability. In late October 2015 (Topic #12841), `«CE»Addict`, `=CE=Shy`, and `=CE=UGoBoom` celebrated a historic milestone: **a `=CE=` dedicated Halo server achieved a Top 30 global rank on GameTracker**—a full twelve years after the clan's founding.
 
@@ -209,7 +215,7 @@ By early 2016, physical retail copies of Halo PC were long out of print, and onl
 
 Shortly thereafter, between 2016 and 2018, the PC Halo community experienced an electric resurgence through **ElDewrito** (Halo Online). For `=CE=`, this was a spiritual homecoming. The clan established Forum 108 (*ElDewrito*), organizing community game nights where veterans and newcomers relived classic Halo 3-style multiplayer with modern PC mouse-and-keyboard precision.
 
-As the decade drew to a close, modern voice and text platforms permanently supplanted traditional web bulletin boards across gaming culture. While forum post frequency tapered off, the brotherhood did not dissolve; it migrated. The official `=CE=` Discord server became the primary daily headquarters for voice lobbies, banter, gaming sessions, and life updates, while the web forum was lovingly preserved as a sacred monument of the clan's golden years.
+As the decade drew to a close, modern voice and text platforms permanently supplanted traditional web bulletin boards across gaming culture. While forum post frequency tapered off, the brotherhood did not dissolve; it migrated. The official `=CE=` Discord server became the primary daily headquarters for voice lobbies, banter, gaming sessions, and life updates, while the web forum was preserved as the archival record of the clan's formative years.
 
 ---
 
@@ -219,13 +225,13 @@ When global lockdowns took effect in the spring of 2020, veterans who had not lo
 
 During this period of renewed connection, clan leadership addressed the long-term stewardship of the community's assets. In July 2020, `=CE=Toxic` organized an initiative seeking contributors to modernize the clan's web infrastructure, transitioning nineteen years of community history and discussion archives into secure, containerized environments so that `=CE=`'s legacy would remain permanently preserved.
 
-In May 2021, clan patriarch `«CE»Addict` announced a promotion within High Command (Topic #13253). Citing twelve years of server hosting and systems maintenance, Addict invested `=CE=Toxic` with the chevron Fancy Tags, elevating him to Leader rank (`«CE»Toxic`). Meanwhile, the clan's supreme governance prepared for its next generational chapter: `«CE»Chance` was positioned to step forward as **the Leader of the Combat Experts Clan**, succeeding Addict at the head of the community.
+In May 2021, `«CE»Addict` announced a promotion within High Command (Topic #13252). Citing twelve years of server hosting and systems maintenance, Addict invested `=CE=Toxic` with the chevron Fancy Tags, elevating him to Leader rank (`«CE»Toxic`). Meanwhile, the clan's supreme governance prepared for its next generational chapter: `«CE»Chance` was positioned to step forward as **the Leader of the Combat Experts Clan**, succeeding Addict at the head of the community.
 
 The final recorded entry in the historic forum database occurred on **January 14, 2022**, in a discussion with `=DG=Morgan` titled *"What killed all the forums in the world (almost all)?"*. Reflecting on the broader evolution of internet culture, members noted the permanent shift toward real-time platforms like Discord, while fondly recalling the classic ritual of logging onto phpBB boards in the morning with coffee to read unread posts. With that reflective exchange, the sovereign web forum epoch drew to a graceful close, paving the way for the Discord-centric modern era.
 
 ---
 
-### The Post-Website Era: Discord Migration, Modern Governance & Leadership
+### The Post-Website Era: Discord Migration, Modern Governance & Leadership (2022 – Present)
 
 Following the conclusion of the forum's active history in early 2022, the clan completed its final platform evolution, transitioning from an archival web-based forum into a modern real-time gaming community:
 
@@ -236,33 +242,13 @@ Following the conclusion of the forum's active history in early 2022, the clan c
   - *Member Autonomy & Interest Groups:* Recognizing that veterans now balance careers, families, and adult responsibilities, rigid forum activity quotas were formally abolished. Full members participate at their leisure and are encouraged to form and join specialized interest Groups.
   - *A Proportional Officer Corps:* The Officer corps was reorganized on a proportional ratio relative to total clan size. Candidates are nominated by peers based on merit and passion for leadership, confirmed by vote. To maintain an active leadership pulse, Officers are expected to attend at least one clan event or contribute on Discord monthly.
   - *Decentralized Server Stewardship:* Centralized administrative rosters were replaced with decentralized community hosting. Members who host servers for the clan administrate at their leisure under clan guidelines, ensuring `=CE=` servers remain welcoming and cheat-free without bureaucratic overhead.
-- **«CE»Chance as Leader:** With the sunset of the website, clan patriarch **«CE»Addict** formally designated **«CE»Chance as the Leader of the Combat Experts Clan**. A foundational pillar of reason, intellect, and leadership since May 9, 2009, Chance helms the modern Discord era, guiding `=CE=` into the future alongside `«CE»Addict` and `«CE»Toxic` (Leader rank).
-- **The Modern Active Roster (The Discord Era):** Under the governance of the modern charter, the active roster reflects both the ancestral leadership that carried the clan across two decades and the frontline vanguard maintaining day-to-day operations:
-  - **The Leader Council (`«CE»` — Fancy Tags):**
-    - `«CE»Chance` — **The Leader of the Combat Experts Clan**; supreme coordinator and intellectual director.
-    - `«CE»Addict` — Patriarch, Rebuilder, and General.
-    - `«CE»Thorn` (Lord Thorn) — Architectural visionary and aesthetic architect.
-    - `«CE»eden419` (`«CE»eden` / Grif) — Beloved cultural pillar and morale commander.
-    - `«CE»Fuyuri` — Master Chronicler and community organizer.
-    - `«CE»Toxic` — Technical cornerstone, 2x Major, Leader rank, and infrastructural architect.
-  - **The Active Officer Corps (`=CE=` — Standard Tags):**
-    - `=CE= Chris` — Tryout administrator and veteran event coordinator.
-    - `=CE= FrightfulFerno` (`=CE=Ferno` / Inferno / Four) — Double Captain and frontline marksman.
-    - `=CE=ÅltyFox` (`=CE=Alteran` / Lantean) — Security sentinel, server protector, and bot engineer.
-    - `=CE=Birdy` — British bastion, server administrator, and graphics artisan.
-    - `=CE=Durelle` — Legendary Canadian marksman (*"Durelle.exe"*).
-    - `=CE=Greed` (`slowgreed`, formerly `br0wnbr0th4`) — Tactical veteran and diplomatic bridge with A§H.
-    - `=CE=M¡√£Ŧ` (Mijet) — Application squad veteran and steadfast community steward.
-    - `=CE=UGoBoom` — Dedicated RCON enforcer and server guardian.
-    - `=CE=Warthog` — Longtime combat veteran, map builder, and 2014 tournament competitor.
-    - `=CE= Discord Bot` (`AltyBot#4373`) — Automated infrastructure bot developed by `=CE=ÅltyFox` to maintain Discord services.
-
+- **«CE»Chance as Leader:** With the sunset of the website, **«CE»Addict** formally designated **«CE»Chance as the Leader of the Combat Experts Clan**. A foundational pillar of reason, intellect, and leadership since May 9, 2009, Chance helms the modern Discord era, guiding `=CE=` into the future alongside `«CE»Addict` and `«CE»Toxic` (Leader rank).
 ---
 
 ## 3. The Organizational Matrix: Hierarchy, Tags & Squads
 
 ### The Tag Hierarchy
-A member's tags in game and on the forums conveyed their sacred standing within the clan:
+A member's tags in game and on the forums conveyed their status and standing within the clan:
 
 | Tag Format | Designation | Description & Qualifications |
 | :--- | :--- | :--- |
@@ -286,7 +272,7 @@ A member's tags in game and on the forums conveyed their sacred standing within 
                │   ENLISTED RANKS    : Private First Class, Private     │
                │   PROBATIONARY      : Recruit, Cadet (≈CE≈)            │
                ├────────────────────────────────────────────────────────┤
-               │   THE REVERED HALL  : Legendary Retired Elders         │
+               │   THE REVERED HALL  : Retired Veteran Members          │
                └────────────────────────────────────────────────────────┘
 ```
 
@@ -306,7 +292,7 @@ During the sovereign website epoch, promotion was earned through forum post mile
 | Echelon | Military Grade | Requirements & Scope |
 | :--- | :--- | :--- |
 | **Supreme Council** | **Leader (`«CE»`)** | Supreme executive authority, fancy tags, board administration, diplomatic treaties. |
-| **High Command** | **General (`=CE=`)** | Patriarchal oversight, highest military grade, command of entire combat roster. |
+| **High Command** | **General (`=CE=`)** | Senior executive oversight, highest military grade, command of entire combat roster. |
 | | **Colonel (`=CE=`)** | Senior commanders overseeing multiple squads, server clusters, and disciplinary appeals. |
 | | **Major (`=CE=`)** | Strategic leaders directing specialized divisions (RCON, Scrim, Graphics, Cadets). |
 | **Officer Corps** | **Captain (`=CE=`)** | Senior field commanders, server administrators, tryout evaluators, and forum moderators. |
@@ -349,7 +335,7 @@ Adopted with the retirement of web forums, the modern charter instituted a strea
 
 ### Specialized Squads
 
-1. **RCON Squad:** The police force of `=CE=` dedicated servers. Empowered with remote server control passwords, members were bound by strict accountability rules. Abuse of admin powers resulted in immediate stripping of rank.
+1. **RCON Squad:** The server administration and enforcement unit of `=CE=` dedicated servers. Empowered with remote server control passwords, members were bound by strict accountability rules. Abuse of admin powers resulted in immediate stripping of rank.
 2. **Graphics Squad:** Created userbars, clan logos, desktop backgrounds, and customized forum avatars. Their artwork gave `=CE=` one of the most distinctive visual signatures in the Halo PC scene.
 3. **Mapping Squad:** Continued the proud tradition of «CE»Leader and «CE»BIGBOOM, creating, modifying, and hosting custom multiplayer maps.
 4. **Video Squad:** Captured Xfire recordings and edited cinematic frag montages showcasing clan tryouts, scrim victories, and humorous glitch antics for YouTube.
@@ -368,170 +354,164 @@ Recognizing that many eager applicants were too young or lacked competitive seas
 
 
 
-## 4. Pivotal Figures & Hall of Fame Biographies
+## 4. Notable Member Biographies & Historical Roster
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                      PIVOTAL COMMUNITY FIGURES                         │
-└────────────────────────────────────────────────────────────────────────┘
-```
+### Founders & High Command (General, Colonel, Major, Captain)
+*(Members who attained senior executive and command rank within the classical military hierarchy)*
 
-### Founders, Supreme Commanders & High Command
-*(All members who held the rank of Captain, Major, Colonel, General, or Leader rank)*
+#### «CE»Leader (Founder, 2003 – 2008)
+Founder of the Combat Experts Clan in the autumn of 2003. A technical pioneer who bypassed early router firewalls to establish one of the first public dedicated Halo PC servers. Author of the community manual *"How To Setup a Halo Dedicated Server"*, co-creator of custom maps alongside «CE»BIGBOOM, and commander during `=CE=`'s undefeated 30–0 early clan war record prior to departing for engineering studies at RPI.
 
-#### «CE»Leader (Founding Father & Pioneer, 2003 – 2008)
-The visionary who started it all in the fall of 2003. A brilliant technical pioneer who bypassed early Linksys and Windows firewalls to stand up one of the very first dedicated public Halo servers in gaming history. Author of the community's definitive *"How To Setup a Halo Dedicated Server"* guide, co-creator of custom Halo CE maps alongside «CE»BIGBOOM, and tactician who led `=CE=` through an undefeated 30–0 clan war record before departing for Rensselaer Polytechnic Institute (RPI) to study electric power engineering.
-
-#### «CE»Addict (The Patriarch & Rebuilder, General, 2008 – Present)
-The indispensable heart and soul of second-generation `=CE=`. When Leader stepped down, Addict stepped into the breach, earned Leader's formal blessing, rebuilt the clan on InvisionFree, and financed and launched the self-hosted phpBB platform in 2009. Holding the rank of General and wearing the coveted Fancy Tags, Addict governed with warmth, fairness, and fierce loyalty, serving as the patriarch of the clan across two decades.
+#### «CE»Addict (General, 2008 – Present)
+Central administrator and restorer of second-generation `=CE=`. Following Leader's departure, Addict revived the clan on InvisionFree with Leader's blessing and financed and launched the self-hosted phpBB platform in December 2009. Holding the rank of General and wearing the chevron Fancy Tags, Addict directed clan administration, recruitment policy, and server operations across more than a decade.
 
 #### «CE»Chance (The Leader, Colonel, 2009 – Present)
-Joined on May 9, 2009. A software engineering scholar celebrated for his dry intellect, sharp wit, and deep philosophical musings. A vital administrator and Colonel during the forum era, Chance was formally designated by «CE»Addict as **the Leader of the Combat Experts Clan** as the community moved into its modern Discord era. Chance represents the intellectual anchor and supreme guidance of the clan today.
+Registered on May 9, 2009 (User #4). A computer science scholar who served as forum administrator, Colonel, and key operational coordinator throughout the sovereign web era. Formally designated by «CE»Addict as **the Leader of the Combat Experts Clan** upon transition to the modern Discord charter, Chance directs modern community governance and organizational affairs.
 
-#### «CE»Thorn (Lord Thorn) (The Architect, Colonel, Leader, 2008 – Present)
-One of the most formidable and influential personalities in clan history. An architectural CAD designer from Australia, Thorn was the fastest member in clan history to advance to Colonel, later ascending to full Leader. Known for his razor-sharp wit, architectural precision, and uncompromising standards, Thorn directed the Graphics Squad, commanded the Cadet Academy (`=CEC=`), and designed the visual identity and rank userbars of `=CE=`.
+#### «CE»Thorn (Lord Thorn) (Colonel, Leader Rank, 2008 – Present)
+Registered on May 9, 2009. An architectural CAD designer who advanced through the officer ranks to Colonel and Leader rank. Thorn directed the Graphics Squad, designed the clan's visual identity and rank userbars, and served as chief instructor for the Cadet Academy (`=CEC=`).
 
-#### «CE»Toxic (The Technical Cornerstone, 2x Major, Leader Rank, 2009 – Present)
-Registered on December 13, 2009 (User #53), Toxic served as the bedrock of `=CE=`'s technical infrastructure, server hosting, and security. After initially earning promotion to Major, he resigned his post and later climbed the military ladder a second time, achieving the rare distinction of **2x Major**. Commended by patriarch «CE»Addict as *"the glue that keeps us together,"* Toxic was invested with the chevron Fancy Tags in May 2021, elevating him to Leader rank (`«CE»Toxic`) in recognition of over a decade of administrative stewardship.
+#### «CE»Toxic (2x Major, Leader Rank, 2009 – Present)
+Registered on December 13, 2009 (User #53). Toxic managed dedicated server hosting, security configurations, and technical maintenance. After completing an initial term as Major, he re-climbed the promotional ladder to earn the rare distinction of **2x Major**. In May 2021 (Topic #13252), Addict invested him with the chevron Fancy Tags, elevating him to Leader rank (`«CE»Toxic`) in recognition of over a decade of systems administration.
 
-#### «CE»eden (Grif / Chewie) (The Beloved Pillar, Major, Leader, 2010 – Present)
-Author of 6,212 posts, eden was one of the most dedicated and warm-hearted leaders in clan history. A self-professed *Red vs. Blue* and sci-fi fanatic, eden was beloved across all ranks for his constant presence in servers, his encouragement of recruits, and his steadfast dedication to the community.
+#### «CE»eden (Grif / Chewie) (Major, Leader Rank, 2010 – Present)
+Registered in early 2010, author of 6,212 posts. Rising to Major and Leader rank, eden was an active presence across community servers and discussion forums. Known for his support of new recruits and consistent participation in multi-game squads, eden served as a core leader during the forum epoch.
 
-#### «CE»Music (The Scrim Commander, Major, Leader, 2009 – Present)
-Major and Clan Leader who commanded the Scrim Squad (1,263 posts). Music was the diplomatic and strategic bridge who negotiated clan war parameters, resolved disputes with rival clans, and led the competitive line during the high-stakes matches of 2010–2012.
+#### «CE»Music (Major, Leader Rank, 2009 – Present)
+Registered in December 2009, author of 1,263 posts. Rising to Major and Leader rank, Music commanded the Scrim & Combat Squad, organizing match schedules, negotiating clan war parameters, and coordinating the competitive roster during the 2010–2012 scrimmage era.
 
-#### «CE»Fuyuri (The Chronicler & Leader, Major, 2010 – Present)
-An IT specialist from New Zealand (2,788 posts). Fuyuri brought boundless energy to the officer corps and was the visionary architect behind the **Clan Biographies (Forum 104)** project, creating a lasting space for members to chronicle their personal lives and aspirations.
+#### «CE»Fuyuri (Major, Leader Rank, 2010 – Present)
+Registered in 2010, author of 2,788 posts. An IT specialist from New Zealand who rose to Major and Leader rank. Fuyuri served as an officer, server administrator, and coordinator of the **Clan Biographies (Forum 104)** project, documenting member profiles and community history.
 
-#### «CE»Ithiane (Aegisdragon) (Secretary of War, General, 2009 – Present)
-General and high administrator (2,748 posts). Renowned across the community as the clan's "Secretary of War," Ithiane wielded the ban hammer with unwavering justice, defended clan servers from raids, and provided high-level administrative governance during the golden era.
+#### «CE»Ithiane (Aegisdragon) (General, 2009 – Present)
+Registered on December 13, 2009, author of 2,748 posts. Holding the rank of General, Ithiane served as a senior forum administrator and server enforcer, overseeing disciplinary reviews, anti-cheat enforcement, and administrative policy during the height of the phpBB era.
 
-#### =CE=Ground (The Poet & Engineer, Colonel, 2009 – Present)
-Joined as a high school freshman, grew up within `=CE=`, and rose all the way to Colonel (1,729 posts). A computer engineering scholar with a passion for robotics, AI, progressive rock, and poetry, =CE=Ground epitomized the journey of a young gamer maturing into a scholar among clan brothers.
+#### =CE=Ground (Colonel, 2009 – Present)
+Registered in December 2009, author of 1,729 posts. Joined as a high school freshman and advanced through the ranks to Colonel while completing computer engineering studies. Ground contributed regularly to technical discussions, server management, and community policy formulation.
 
-#### =CE=ÅltyFox (=CE=Alteran / Lantean) (The Sentinel & Bot Architect, Captain, Modern Officer, 2009 – Present)
-Author of 4,277 posts. Alteran served as a stalwart Captain, moderator, server guardian, and technical troubleshooter. Fiercely protective of clan standards, Alteran logged countless hours policing servers, managing permissions, and maintaining board security. In the modern Discord era, operating as `=CE=ÅltyFox`, he continues his dedicated service as an active Officer and engineered the clan's automated Discord assistant, `=CE= Discord Bot` (`AltyBot#4373`).
+#### =CE=ÅltyFox (=CE=Alteran / Lantean) (Captain, 2009 – Present)
+Registered on December 13, 2009, author of 4,277 posts. Alteran served as Captain, forum moderator, and server guardian during the website era. During the transition to Discord, Alteran engineered the community's automated bot infrastructure (`AltyBot#4373`).
 
-#### =CE=Birdy (The British Bastion, Captain, Modern Officer, 2010 – Present)
-British officer and graphics artisan (1,814 posts). Rising to the rank of Captain, Birdy was an essential fixture of both server operations and forum life, known for his humor, reliable administration, and loyalty during the =DG= server transitions. He continues to serve in the modern Discord era as an active Officer.
+#### =CE=Birdy (Captain, 2010 – Present)
+Registered in January 2010, author of 4,874 posts. A British designer who joined following the POQ transition, Birdy attained Captain rank, designed clan visual assets in the Graphics Squad, and administered UK-based servers.
 
-#### =CE= FrightfulFerno (=CE=Ferno / Inferno / Four) (The Resilient Spartan, 2x Captain, Modern Officer, 2009 – Present)
-Joined in April 2009. Overcoming internet outages and personal challenges, Ferno demonstrated extraordinary dedication, rising from PFC to Lieutenant in record time (3 days) and ultimately attaining the rank of Captain on two separate occasions (1,315 posts). In the Discord era, serving under the handle `=CE= FrightfulFerno`, he continues his frontline service as an active Officer.
+#### =CE= FrightfulFerno (=CE=Ferno / Inferno / Four) (2x Captain, 2009 – Present)
+Registered on December 13, 2009, author of 5,593 posts. Ferno advanced to Captain twice across two distinct active epochs, serving in the Scrim Squad and forum moderation.
 
-#### «CE»RedFlag (The Steam Pioneer & Administrator, Major, Revered, 2009 – Present)
-Author of 1,139 posts. Transitioning from the InvisionFree era, RedFlag served as a senior forum administrator, RCON server enforcer, and application evaluator. In 2010, clan patriarch «CE»Addict officially promoted him to Major and invested him with the Fancy Tags (`«CE»RedFlag`) (Topic #1739: *"The Clan has decided that another member has earned the right to wear the fancy tags. Please welcome RedFlag as our newest Major"*). An avid PC enthusiast, RedFlag co-founded and managed the clan's Steam community across titles like *Team Fortress 2*, *Half-Life 2*, and Source mods, and was subsequently inducted into the Revered Hall of Fame.
+#### «CE»RedFlag (Major, Revered, 2009 – Present)
+Registered on December 13, 2009 (User #16), author of 2,367 posts. Promoted to Major in Topic #1739 with fancy tags awarded, RedFlag served as a senior RCON administrator and co-founded the clan's Steam community group in December 2009. RedFlag holds Revered status (Group #40) for longtime organizational service.
 
-#### =CE= Chris (The Event Overseer, Captain, Modern Officer, 2009 – Present)
-Captain and administrator (980 posts). Chris served as a key administrative officer, managing tryout servers, executing server resets, and supervising clan tryouts and events. He continues his administrative presence in the modern Discord era as an active Officer.
+#### =CE= Chris (Captain, 2009 – Present)
+Registered on December 13, 2009, author of 1,189 posts. Chris served as Captain, tryout judge in the Application Squad, and coordinator for seasonal community events.
 
-#### =CE=Durelle (The Unstoppable Sniper, Captain, Modern Officer, 2009 – Present)
-Canadian web technician and competitive marksman (538 posts). Rising to Captain and administrator, his lethal sniping precision was so feared that clan mates jokingly accused him of running an automated hack called *"Durelle.exe"*. He remains a cornerstone of the active Officer Corps in the Discord era.
+#### =CE=Durelle (Captain, 2009 – Present)
+Registered on December 13, 2009, author of 3,744 posts. A Canadian player and Captain noted for long-range marksmanship, inspiring the community's running "Durelle.exe" reference during Blood Gulch matches.
 
-#### =CE=Sagino (The International Guardian, Captain, 2010 – Present)
-Captain and server administrator (534 posts). Sagino was a dedicated enforcer on the Ambush server, known for his vigilance against exploiters and his active participation in the RCON Squad documentaries.
-
----
-
-### The Revered Hall of Fame Elders
-*(Members formally inducted into Group #40 for exceptional lifetime contributions, with highest military ranks attained)*
-
-#### =CE= Plague (The Voice of the Clan, Highest Rank: Sergeant, Revered, 2009 – Present)
-The undisputed **all-time post champion of `=CE=` with 7,844 posts**. Recruited in 2009 by Ichigo, Plague served as the vibrant heartbeat and social conscience of the community across more than a decade. Holding the rank of Sergeant, Plague anchored *The Spam Forum*, broke down competitive match mechanics in the Scrim Squad, assisted with application voting, and kept daily spirits high with unmatched humor. Plague was universally beloved as the ultimate embodiment of everyday clan camaraderie.
-
-#### «CE»BIGBOOM (The Master Mapmaker, Founding Co-Leader, Revered, 2003 – Present)
-Co-commander alongside «CE»Leader during the 2003–2004 founding era. «CE»BIGBOOM was a master level designer whose custom multiplayer creations placed `=CE=` at the center of the global Halo Custom Edition modding scene on *halomaps.org*. Following his early service, he graduated in mechanical engineering from Michigan Tech and returned to the forums across the decades to salute the clan's endurance and celebrate the brotherhood he helped forge.
-
-#### =CE=Falcon (The Original Spartan, Founding High Command, Revered, 2003 – 2008)
-«CE»Leader's original neighbor, best friend, and tactical right-hand man. Together with Leader, Falcon co-authored the operational doctrine that powered the clan's undefeated 30–0 clan war record, personally scouting terrain and hand-drawing topographical coordinate maps for team ambushes before enlisting in the U.S. Army Rangers.
-
-#### =CE=Falcon (The Country Spartan / 2nd Falcon, Highest Rank: Private, Revered, 2008 – Present)
-Joining during the 2008 InvisionFree rebirth and coincidentally sharing the callsign of the founding era's Falcon, this second Falcon was one of the foundational recruits who rebuilt `=CE=` alongside Addict and Morbus. Known for his authentic country charm, paintball enthusiasm, and steadfast loyalty, his December 2010 return thread ("Back In Black") remains one of the most celebrated homecoming threads in clan history.
-
-#### =CE=Fire (The Moderation Pillar, Highest Rank: Captain / Senior Moderator, Revered, 2009 – Present)
-With 3,569 posts, Fire was one of the most dedicated, steady, and respected moderators in clan history. Rising through the officer ranks to Captain and serving as a lead forum moderator, Fire was the voice of calm during turbulent community debates, defusing cross-clan tensions and protecting forum integrity for years.
-
-#### «CE»Angel (The Peacemaker, Highest Rank: Major, Revered, 2009 – Present)
-Author of 134 posts. Attaining the rank of Major, Angel played a pivotal diplomatic role in clan history. In February 2010, when external controversy flared over POQbum's departure from POQ to join `=CE=`, Angel authored the official community proclamation (*Topic #1251: "=CE= and POQ Drama All READ"*), establishing a lasting standard of honor, maturity, and non-interference that defined `=CE=` statecraft.
-
-#### «CE»Nuwbz (The Rebirth Vanguard, Highest Rank: Major, Revered, 2009 – Present)
-With 1,056 posts, Nuwbz was a foundational pillar of the 2008–2009 InvisionFree rebirth who rose to the rank of Major. Known for his comprehensive member portfolios and deep technical discussions, Nuwbz helped bridge the gap between the founding era and the sovereign forum launch.
-
-#### «CE»Phantom (The Silent Sentinel, Highest Rank: Major, Revered, 2009 – Present)
-Author of 627 posts. Attaining the rank of Major, Phantom was an uncompromising administrator and enforcer of clan policy. Partnering with Angel during the 2010 POQ migration, Phantom ensured clan servers maintained strict discipline and zero tolerance for harassment.
-
-#### =CE=Rampage (The Scrim Tactician, Highest Rank: Captain, Revered, 2009 – Present)
-Author of 968 posts. Rising to Captain, Rampage commanded the front lines of the Scrim Squad during the peak competitive years of 2010–2012. Rampage led tactical coordination and diplomacy during the high-profile Blood Gulch showdown against Dragon Knights `{DK}`.
-
-#### =CE=Xtreme05 (The Tactical Enforcer, Highest Rank: Captain, Revered, 2009 – Present)
-With 747 posts, Xtreme05 attained the rank of Captain. Known for his aggressive competitive drive, Xtreme05 was an enthusiastic participant in clan scrims and server moderation, rallying members with unyielding Spartan pride.
-
-#### =CE=Kradon (The Steadfast Veteran, Highest Rank: Private First Class, Revered, 2009 – Present)
-Author of 3,467 posts. Kradon was one of the most iconic fixtures in `=CE=` history. Renowned for his dry wit, daily forum presence, and steadfast loyalty, Kradon remained an active, beloved pillar across every era without ever seeking administrative power.
-
-#### =CE=Blank (Blanket) (The Dedicated Operative, Highest Rank: Sergeant, Revered, 2010 – Present)
-Author of 2,129 posts. Rising to Sergeant, Blank was a cornerstone of clan operations, active in the RCON Squad, regular scrim lineups, and community events. His dependability on game servers earned him widespread respect across the entire roster.
-
-#### =CE=Horns (The 4-Time Veteran, Highest Rank: Private First Class, Revered, 2009 – Present)
-Author of 1,993 posts. Having served across four separate eras of clan history starting on InvisionFree, Horns was a passionate, outspoken voice whose deep historical memory helped anchor the community during major platform transitions.
-
-#### =CE=Flóòk (The Community Favorite, Highest Rank: Private, Revered, 2010 – Present)
-With 1,701 posts, Flóòk was a vibrant forum regular and active server admin, known for his humor, high energy in game lobbies, and vigilant anti-cheat reporting on the Ambush servers.
-
-#### =CE=Exeon (The Astrophysics Vanguard, Highest Rank: Sergeant, Revered, 2010 – Present)
-Author of 1,107 posts. Exeon achieved the unique distinction of serving as an Admiral in `=DG=` while holding Sergeant rank in `=CE=`. Balancing studies in astrophysics in London with BAE Systems work, Exeon served as the vital diplomatic bridge between `=CE=` and `=DG=`.
-
-#### =CE=Kilo23 (The Forensic Admin, Highest Rank: Sergeant, Revered, 2009 – Present)
-Author of 736 posts. Rising to Sergeant, Kilo23 was an early star of the RCON Squad, famous for producing video recordings and detailed documentary evidence to root out cheaters on Coldsnap.
-
-#### =CE=Cactuar (The Resilient Elder, Highest Rank: Sergeant, Revered, 2009 – Present)
-Author of 141 posts. Rising to Sergeant, Cactuar was a respected veteran from the earliest board days who returned faithfully during the 2020 reunion to celebrate community longevity.
-
-#### =CE=`SpAz!` (Ninja) (The Rebirth Vanguard, Highest Rank: Private First Class, Revered, 2010 – Present)
-An early recruit from the 2008 InvisionFree rebirth alongside Falcon and Ichigo, celebrated for his energetic personality and early tryout sessions with Addict and Morbus.
-
-#### =CE=Drake (The Visual Artisan, Highest Rank: Specialist, Revered, 2009 – Present)
-Author of 85 posts. Rising to Specialist, Drake was an early Graphics Squad leader who designed custom clan signatures, headers, and visual assets during the launch of the sovereign website.
-
-#### =CE=Cowboy (Lucky 7) (The Presidential Wit, Highest Rank: Recruit, Revered, 2009 – Present)
-Author of 49 posts. A colorful personality celebrated for his humorous "presidential addresses" and anniversary reflections commemorating life in `=CE=`.
+#### =CE=Sagino (Captain, 2010 – Present)
+Registered in March 2010, author of 1,607 posts. An international member from the Philippines who rose to Captain, Sagino was a core marksman in the Scrim Squad and active tryout evaluator who helped maintain community activity across Asia-Pacific time zones.
 
 ---
 
-### The Officer Corps: Lieutenants & Modern Officers
-*(Members who attained the rank of Lieutenant in the classical hierarchy, alongside newly appointed Officers in the modern Discord Charter)*
+### Revered Veteran Members (Group #40)
+*(Former members inducted into the official Revered group in recognition of significant contributions to the clan)*
+
+#### =CE= Plague (Highest Rank: Sergeant, Revered, 2009 – Present)
+Registered in 2009, author of 17,998 posts (the highest post count in clan history). Recruited by Ichigo, Plague served as an active forum contributor, Scrim Squad reserve, and tryout evaluator. Plague was inducted into the Revered group in recognition of his extensive community engagement.
+
+#### «CE»BIGBOOM (Founding Co-Leader, Revered, 2003 – Present)
+Founding Co-Leader alongside «CE»Leader in 2003. A primary HEK map modder who co-created custom multiplayer maps and established the clan's early mapping presence. Inducted into the Revered group in recognition of foundational service.
+
+#### =CE=Falcon (Founding High Command, Revered, 2003 – 2008)
+Founding High Command officer alongside «CE»Leader from 2003 to 2008. Co-authored the clan's initial tactical battle doctrine and competitive protocols prior to enlisting in the U.S. Army Rangers.
+
+#### =CE=Falcon (2nd Falcon, Highest Rank: Private, Revered, 2008 – Present)
+Registered during the 2008 InvisionFree rebuilding era (coincidentally adopting the callsign of the founding member). Falcon was an active combatant on Blood Gulch servers and was inducted into the Revered group for his contributions to the clan's second generation.
+
+#### =CE=Fire (Highest Rank: Captain / Senior Moderator, Revered, 2009 – Present)
+Registered on December 13, 2009, author of 7,370 posts. Rising to Captain and Senior Moderator, Fire oversaw forum rules, conflict resolution, and community moderation before induction into the Revered group.
+
+#### «CE»Angel (Highest Rank: Major, Revered, 2009 – Present)
+Registered on December 13, 2009, author of 4,057 posts. Promoted to Major in 2010 by Addict, Angel directed server moderation and helped manage the POQ migration (Topic #1251) before induction into the Revered group.
+
+#### «CE»Nuwbz (Highest Rank: Major, Revered, 2009 – Present)
+Registered in December 2009, author of 1,770 posts. Nuwbz served as Major, competitive scrim marksman, and server host, later inducted into the Revered group.
+
+#### «CE»Phantom (Highest Rank: Major, Revered, 2009 – Present)
+Registered in December 2009, author of 1,223 posts. Phantom served as Major, technical forum administrator, and diplomat during early inter-clan disputes before receiving Revered status.
+
+#### =CE=Rampage (Highest Rank: Captain, Revered, 2009 – Present)
+Registered in December 2009, author of 4,028 posts. Rampage served as Captain, Scrim Squad co-lead, and tactical strategist during inter-clan matches, later inducted into the Revered group.
+
+#### =CE=Xtreme05 (Highest Rank: Captain, Revered, 2009 – Present)
+Registered in December 2009, author of 1,328 posts. Xtreme05 served as Captain, RCON server enforcer, and competitive combatant before receiving Revered status.
+
+#### =CE=Kradon (Highest Rank: Private First Class, Revered, 2009 – Present)
+Registered in December 2009, author of 3,467 posts. Kradon was a daily conversational contributor across multiple eras and was inducted into the Revered group for consistent participation.
+
+#### =CE=Blank (Blanket) (Highest Rank: Sergeant, Revered, 2010 – Present)
+Registered in 2010, author of 2,129 posts. Blank served as Sergeant, participating actively in the RCON Squad, match lineups, and community events before induction into the Revered group.
+
+#### =CE=Horns (Highest Rank: Private First Class, Revered, 2009 – Present)
+Registered in December 2009, author of 1,600 posts. Rejoined the clan across multiple eras, contributing to forum discussions and receiving Revered status.
+
+#### =CE=Flóòk (Highest Rank: Private, Revered, 2010 – Present)
+Registered in 2010, author of 1,180 posts. An active forum member and dedicated combatant on custom dedicated servers, later inducted into the Revered group.
+
+#### =CE=Exeon (Highest Rank: Sergeant, Revered, 2010 – Present)
+Registered in 2010, author of 992 posts. Rising to Sergeant in `=CE=` while serving as an Admiral in `=DG=`, Exeon helped coordinate joint scrims and friendly ties between the two allied clans.
+
+#### =CE=Kilo23 (Highest Rank: Sergeant, Revered, 2009 – Present)
+Registered in December 2009, author of 736 posts. Served as Sergeant and RCON Squad member, compiling documentary logs for anti-cheat verification on Coldsnap servers.
+
+#### =CE=Cactuar (Highest Rank: Sergeant, Revered, 2009 – Present)
+Registered in December 2009, author of 141 posts. Rising to Sergeant, Cactuar participated in early server administration and returned during the 2020 reunion.
+
+#### =CE=`SpAz!` (Ninja) (Highest Rank: Private First Class, Revered, 2010 – Present)
+Recruit from the 2008 InvisionFree rebuilding era alongside Falcon and Ichigo, active in early tryouts and community matches.
+
+#### =CE=Drake (Highest Rank: Specialist, Revered, 2009 – Present)
+Registered in December 2009, author of 85 posts. Specialist in the Graphics Squad who designed early forum headers, userbars, and signatures.
+
+#### =CE=Cowboy (Lucky 7) (Highest Rank: Recruit, Revered, 2009 – Present)
+Registered in December 2009, author of 49 posts. Contributed humorous commentary and anniversary reflections during the forum era.
+
+---
+
+### Lieutenants & Field Operatives
+*(Members who attained the rank of Lieutenant or served as dedicated field operatives and combat veterans)*
 
 #### =CE=Shy (Lieutenant, 2010 – Present)
-With 2,077 posts, Shy was an indispensable international member from Lahore, Pakistan. Promoted to Lieutenant, Shy was an elite marksman, active tryout judge, and co-manager of the dedicated server that reached the global Top 30 on GameTracker in 2015.
+Registered in 2010, author of 2,077 posts. An international member from Lahore, Pakistan, who rose to Lieutenant, served as tryout evaluator, and co-managed the dedicated server that achieved a Top 30 global rank on GameTracker in 2015.
 
 #### =CE=Tesla (Lieutenant, 2010 – Present)
-Author of 1,043 posts. Tesla was an active, highly respected officer who contributed extensively to community discussions, server administration, and tactical squads.
+Registered in 2010, author of 1,043 posts. Lieutenant who contributed to tactical squads, server moderation, and community discussions.
 
-#### =CE=UGoBoom (Lieutenant, Modern Officer, 2009 – Present)
-Author of 550 posts. UGoBoom was one of the clan's most dedicated RCON enforcers, maintaining meticulous documentary logs and protecting the Ambush and FTLoBG servers from griefers and cheaters. In the modern Discord era, UGoBoom continues his steadfast leadership as an active Officer.
+#### =CE=UGoBoom (Lieutenant, 2009 – Present)
+Registered in December 2009, author of 550 posts. Lieutenant who served as an RCON administrator on Ambush and FTLoBG servers, maintaining detailed evidence logs.
 
 #### =CE=Ichigo (Lieutenant, 2010 – Present)
-Author of 385 posts. Ichigo was a vital recruiter during the 2008–2009 rebuilding era, famously bringing future post champion `=CE= Plague` into the clan and rising to Lieutenant.
+Registered in 2010, author of 385 posts. Lieutenant and recruiter during the 2008–2009 rebuilding phase who introduced several active members, including future post champion `=CE= Plague`.
 
 #### =CE=fade' (Penguin) (Lieutenant, 2011 – Present)
-Author of 188 posts. Rising from Probationary Lieutenant to full Lieutenant, fade' was an active high school athlete and dedicated Spartan who contributed thoughtful reflections to the Biographies project.
+Registered in 2011, author of 188 posts. Promoted to Lieutenant, fade' was an active scrim combatant and contributor to the Biographies project.
 
 #### =CE= Pydro (Lieutenant, 2010 – Present)
-Author of 181 posts. A competitive combatant and Lieutenant who represented `=CE=` on the front lines during the March 2014 tournament against `A§H»`.
+Registered in 2010, author of 181 posts. Lieutenant and competitive player who represented `=CE=` in the March 2014 friendly tournament against `A§H»`.
 
-#### =CE=Greed (slowgreed / br0wnbr0th4) (Sergeant, Modern Officer, 2009 – Present)
-Author of 86 forum posts and a veteran operative whose roots trace back to the sovereign forum launch. Originally rising through the ranks to Sergeant, Greed was a versatile combatant who later held deep fraternal ties with sister clan `A§H»` (under the handle `br0wnbr0th4`). Recognizing his enduring commitment to the community across multiple gaming epochs, Greed was elevated into the active Officer Corps under the modern Discord charter.
+#### =CE=Greed (slowgreed / br0wnbr0th4) (Sergeant, 2009 – Present)
+Registered in December 2009, author of 86 posts. Rising to Sergeant, Greed was an active combatant who also held fraternal ties with sister clan `A§H»`.
 
-#### =CE=M¡√£Ŧ (Mijet) (Veteran Operative, Modern Officer, 2010 – Present)
-Joining the community in January 2010, Mijet was an enthusiastic participant in the Application Squad, helping review newcomer credentials, evaluate recruit behavior, and maintain server sportsmanship. In the Discord era, Mijet was recognized for unwavering longevity and appointed to the active Officer Corps.
+#### =CE=M¡√£Ŧ (Mijet) (Veteran Operative, 2010 – Present)
+Registered in January 2010. Mijet served as an evaluator in the Application Squad, reviewing newcomer applications and maintaining sportsmanship standards.
 
-#### =CE=Warthog (Combat Veteran, Modern Officer, 2009 – Present)
-Author of 909 posts. Warthog was a prolific and beloved regular from the earliest days of the self-hosted board. Known for his collaborative map design concepts (including Pelican-themed zombie maps created alongside Chris), mechanical vehicle knowledge, and fierce competitive spirit, Warthog represented `=CE=` in the historic March 2014 tournament against `A§H»`. Under the modern charter, Warthog's two decades of loyalty were honored with promotion to the active Officer Corps.
+#### =CE=Warthog (Combat Veteran, 2009 – Present)
+Registered in December 2009, author of 909 posts. Warthog contributed to custom map concepts, vehicle combat tactics, and represented `=CE=` in the March 2014 tournament against `A§H»`.
 
 ---
 
-## 5. The Server Bastions & Legendary Battlegrounds
+## 5. Dedicated Server Deployments & Key Battlegrounds
 
-The Combat Experts Clan's legendary reputation was built on its custom dedicated servers, which ran 24/7 and attracted thousands of players worldwide:
+The Combat Experts Clan's multiplayer presence was centered on its custom dedicated servers, which ran 24/7 and attracted thousands of players worldwide:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -554,21 +534,40 @@ The Combat Experts Clan's legendary reputation was built on its custom dedicated
 
 ## 6. Clan Culture, Traditions & Memorable Lore
 
-### 1. "The Spam Forum" & Forum Culture
-Forum 8 (*The Spam Forum*) was the vibrant social pub of `=CE=`, generating over 28,500 posts. Here, members debated music, shared photography, engaged in endless counting threads (*"A count to 2000"*), and cultivated inside jokes like *"Cake and Schnapps"* and the legendary *"Clam"* emoticons.
+### The Blood Gulch Tryout Ritual & The 1v1 Gauntlet
+The formal entry evaluation for recruit applicants was the standard `=CE=` tryout on Blood Gulch. Conducted on dedicated, password-protected servers, the process was standardized through a custom software automation tool (*`=CE= Tryout Script.exe`*, Topic #120):
+* **The Rules of the Duel (F5 Macro):** The applicant was placed on the Blue team, facing a designated `=CE=` evaluator on the Red team. Matches were first-to-15 kills. Vehicles, active camouflage, overshields, and flag captures were strictly forbidden—combat was decided purely by raw magnum pistol pacing and precision sniper marksmanship.
+* **The Cliff Spectator & Sightjacking Surveillance:** Utilizing SAPP administrative console commands (`t # cliff1`, `t # rock`), a second `=CE=` evaluator was teleported high onto the canyon cliffs. The second member remained passive, using spectator mode to "sightjack" the applicant's first-person perspective in real-time. This forensic surveillance monitored crosshair snapping, anomalous spread, and wallhacking (which famously unmasked cheats like *Wafflepwn* caught botting during his own tryout in Topic #2750).
+* **The Dual-Duel Protocol (F6 Macro):** Once the first 15-kill duel ended, roles reversed: the spectator descended from the cliffs to duel the applicant in a second 15-kill match, while the first evaluator took over sightjacking duties.
+* **The "Two Evaluators Only" Doctrine (Topic #1519):** Proposed directly by `«CE»Addict`, clan law strictly mandated that under no circumstances could more than two `=CE=` members enter a tryout server, ensuring applicants were never overwhelmed or intimidated.
+* **The Application Squad (AS):** Senior officers and vetted marksmen formed a dedicated division responsible for scheduling tryouts, grading movement, evaluating attitude under fire, and initiating probationary `-CE-` tags.
 
-### 2. "Durelle.exe"
-Whenever `=CE=Durelle` went on an impossible sniping spree, dominating opposing players across the entire expanse of Blood Gulch or Gephyrophobia, members declared that *Durelle.exe* had been executed—a running tribute to his natural marksmanship.
+### The Recruit Induction Protocol: "Welcome.txt"
+Upon surviving the Blood Gulch tryouts, every accepted recruit was formally issued the community's foundational onboarding artifact: *`Welcome.txt`* (distributed alongside registration links within *`Welcome.zip`*). The document served as the community's official initiation manual, codifying the mandatory seven-day probationary period under the `-CE-` tag, technical setup instructions for Xfire and TeamSpeak, and the clan's fourteen binding behavioral commandments. These rules strictly outlawed teamkilling, map glitching, tag-mixing, and third-party cheats, while formally authorizing SightJacker utilities solely for administrative bot-catching.
 
-### 3. The Mandatory Documentaries Rule
-Unlike ordinary gaming clans where admins banned players on a whim, `=CE=` maintained a strict judicial code. Every RCON Squad member was required to maintain a personal topic in Forum 66 (*Documentaries*). When a ban was issued, the admin had to record:
-- The exact server name and timestamp.
-- The command string executed (`sv_ban [player_id]`).
-- The player's unique cryptographic CD-key hash.
-- Photographic or video evidence of the infraction (aimbot snapping, wallhacking, or severe abusive toxicity).
+The text also codified `=CE=`'s classical victory-based rank ladder, specifying the exact multi-player match win quotas required to advance from Private up to Lieutenant before leadership evaluations took over. *Welcome.txt* quickly embedded itself into community culture and running forum banter; veterans frequently cited it during recruit reviews and disciplinary discussions (such as Topic #1628 and Topic #7877), humorously reminding members who questioned clan rules or departure penalties to *"read the fine print on the Welcome.txt."*
 
-### 4. Brotherhood Across Borders
-`=CE=` was truly global. From North America to the United Kingdom, New Zealand, Australia, Brazil, and Pakistan (`=CE=Shy`), members coordinated events across twelve time zones. When members faced personal hardships, health struggles, or grief, the community rallied around them with genuine support and care.
+### The Spam Forum, Forum Games & The 2000 Count
+Forum 8 (*The Spam Forum*) was the vibrant social pub of `=CE=`, generating **28,583 posts across 1,270 community topics**:
+* **The 2000 Count (Topic #20):** Launched on December 13, 2009, this thread became one of the longest continuously running rituals in clan history, spanning all the way into 2021. Members posted single sequential numbers interspersed with life updates, banter, and gaming invites.
+* **Forum Games & Running Memes:** Classics like *"Ban The Person Above You"* (initiated on the board's second day), *"Word Association"*, and inside jokes like *"Cake and Schnapps"* and the popular custom `:clam:` and `:mudkip:` emoticons gave the community an irreverent, warm personality.
+
+### The Xfire Era & "Halownage" Archives
+Before Discord or Steam overlays dominated PC gaming, **Xfire** was the nervous system of the clan:
+* Members tracked thousands of cumulative in-game hours, broadcasted status messages, and formed tactical chat rooms.
+* The *Halownage* forum section celebrated high-skill gameplay clips, hilarious physics glitches, and screenshots of running riots.
+
+### The Running In-Game Reference: "Durelle.exe"
+Whenever `=CE=Durelle` had a high-kill sniping streak—clearing opposing players across the length of Blood Gulch, Gephyrophobia, or Sidewinder—clan mates jokingly remarked that *Durelle.exe* had been executed. The running gag referenced his high-accuracy flick shots and precision marksmanship, becoming a widely recognized competitive reference in clan lore.
+
+### The Mandatory Documentaries Rule (Forum 66)
+Unlike typical gaming clans where rogue server admins banned players arbitrarily, `=CE=` operated under a strict judicial code of evidence. Every RCON Squad member was required to maintain a personal documentary thread in Forum 66:
+* Every kick, hash-ban, or mute required photographic or video evidence.
+* Logs recorded the server name, exact timestamp, executed console command (`sv_ban [player_id]`), and the offender's unique cryptographic CD-key hash.
+* Any admin found abusing powers without documenting evidence faced immediate disciplinary demotion.
+
+### Brotherhood Across Borders
+`=CE=` was truly global. From North America to the United Kingdom, New Zealand (`«CE»Fuyuri`), Australia (`«CE»Thorn`), Brazil, and Pakistan (`=CE=Shy`), members coordinated matches across twelve time zones. When members faced real-life hardships, collegiate exams, military deployments, or personal tragedies, the community rallied around them with genuine care, proving that the clan was far more than just a gaming roster.
 
 ---
 
