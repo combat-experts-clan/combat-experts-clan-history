@@ -69,7 +69,7 @@ flowchart TD
     E4["Era IV: Warfare & Rivalries<br/>(2010 - 2013)<br/>• The POQ crisis & =DG= birth<br/>• Dragon Knights challenge<br/>• Anti-cheat Crusade"]
     E5["Era V: Diversification<br/>(2012 - 2015)<br/>• Multi-Gaming & A§H» Alliance<br/>• March 2014 Tournament<br/>• Top 30 GameTracker server"]
     E6["Era VI: Revival Sparks<br/>(2016 - 2019)<br/>• 2016 4-Clan Coalition<br/>• ElDewrito / Halo Online<br/>• Shift toward Discord"]
-    E7["Era VII: Legacy & Modernization<br/>(2020 - 2022+)<br/>• MCC on Steam<br/>• Toxic Leader Rank & Preservation<br/>• Discord Transition & Chance as Leader"]
+    E7["Era VII: Legacy & Modernization<br/>(2020 - 2022+)<br/>• MCC on Steam & Community Revival<br/>• Archive Preservation<br/>• Discord Transition & Chance as Leader"]
 
     E1 --> E2 --> E3 --> E4 --> E5 --> E6 --> E7
 ```
@@ -215,44 +215,13 @@ As the decade drew to a close, modern voice and text platforms permanently suppl
 
 ### Era VII: Pandemic Reunion, Modernization & The Eternal Legacy (2020 – 2022)
 
-When global lockdowns took effect in the spring of 2020, veterans who had not logged into the website in years returned to check on their brothers. Threads were revived with roll calls as `~CE~Trael`, `=CE=Giuli`, `Cactuar`, `=CE=Alteran`, and `«CE»Addict` checked in, counting posts and sharing well-wishes. Members reassembled on PC to squad up in *Halo: The Master Chief Collection (MCC)* on Steam, bringing the journey full circle back to the classic Master Chief campaigns and multiplayer lobbies.
+When global lockdowns took effect in the spring of 2020, veterans who had not logged into the website in years returned to check on their brothers. Threads were revived with roll calls as `~CE~Trael`, `=CE=Giuli`, `Cactuar`, `=CE=Alteran`, and `«CE»Addict` checked in, counting posts and sharing well-wishes. Members reassembled on PC to squad up in *Halo: The Master Chief Collection (MCC)* on Steam, bringing the journey full circle back to classic Master Chief campaigns and multiplayer lobbies across *Halo: Reach*, *Combat Evolved Anniversary*, and *Halo 3*.
 
-On July 19, 2020, **=CE=Toxic** issued a historic call to arms:
-```text
-"I hope that everyone is staying safe during these times! 
-We are in need of contributors to the new website project. Anyone with project management, 
-coding, testing, database maintenance, systems administration, graphic design, or community 
-management experience is welcomed and encouraged to help out in any way that they can... 
-The point of contact is =CE=Toxic."
-— =CE=Toxic, Public Announcement
-```
-This initiative spearheaded the complete modernization of the clan's legacy codebase—transitioning nineteen years of history into secure, containerized, modern architectures so that the records of `=CE=` would never be lost to time.
+During this period of renewed connection, clan leadership addressed the long-term stewardship of the community's assets. In July 2020, `=CE=Toxic` organized an initiative seeking contributors to modernize the clan's web infrastructure, transitioning nineteen years of community history and discussion archives into secure, containerized environments so that `=CE=`'s legacy would remain permanently preserved.
 
-On May 27, 2021, clan patriarch **«CE»Addict** made a momentous announcement to the community (Topic #13253):
+In May 2021, clan patriarch `«CE»Addict` announced a promotion within High Command (Topic #13253). Citing twelve years of server hosting and systems maintenance, Addict invested `=CE=Toxic` with the chevron Fancy Tags, elevating him to Leader rank (`«CE»Toxic`). Meanwhile, the clan's supreme governance prepared for its next generational chapter: `«CE»Chance` was positioned to step forward as **the Leader of the Combat Experts Clan**, succeeding Addict at the head of the community.
 
-```text
-"Over the years =CE=Toxic has been an outstanding member. =CE=Toxic really has been a major 
-ingredient of the glue that keeps us together over the last 12+ years. The list of his 
-contributions is very long and I am very proud to announce that we have a new Fancy Tag. 
-Thank you «CE»Toxic for everything."
-— «CE»Addict, Official Leadership Proclamation
-```
-After twelve years of tireless administrative stewardship, technical leadership, and unwavering loyalty, =CE=Toxic was officially invested with the coveted chevron **Fancy Tags** and elevated to the rank of **Leader (`«CE»Toxic`)**. While holding Leader rank and serving as the administrative anchor of the clan, Toxic maintained the community's foundational systems, while **«CE»Chance** stood as **the Leader** of the clan.
-
-The final recorded post in the historic forum database occurred on **January 14, 2022**, in a reflective discussion with `=DG=Morgan` titled *"What killed all the forums in the world (almost all)?"*.
-
-`«CE»Toxic` provided the poetic closing words for an entire epoch of digital culture:
-```text
-"Definitely a change in the way that people use the internet. The rise of real-time 
-communications and social networks has shifted the ways that we communicate online... 
-This however, does not foster conversations, and I think that is why the spirit of 
-forums lives on in the form of other platforms similar to Reddit, Facebook Groups, 
-and others.
-
-I always loved logging onto the forums in the morning while sipping a freshly-brewed coffee, 
-and checking the unread posts."
-— «CE»Toxic, Final Archival Post
-```
+The final recorded entry in the historic forum database occurred on **January 14, 2022**, in a discussion with `=DG=Morgan` titled *"What killed all the forums in the world (almost all)?"*. Reflecting on the broader evolution of internet culture, members noted the permanent shift toward real-time platforms like Discord, while fondly recalling the classic ritual of logging onto phpBB boards in the morning with coffee to read unread posts. With that reflective exchange, the sovereign web forum epoch drew to a graceful close, paving the way for the Discord-centric modern era.
 
 ---
 
@@ -449,15 +418,14 @@ British officer and graphics artisan (1,814 posts). Rising to the rank of Captai
 #### =CE= FrightfulFerno (=CE=Ferno / Inferno / Four) (The Resilient Spartan, 2x Captain, Modern Officer, 2009 – Present)
 Joined in April 2009. Overcoming internet outages and personal challenges, Ferno demonstrated extraordinary dedication, rising from PFC to Lieutenant in record time (3 days) and ultimately attaining the rank of Captain on two separate occasions (1,315 posts). In the Discord era, serving under the handle `=CE= FrightfulFerno`, he continues his frontline service as an active Officer.
 
-#### =CE=RedFlag (The High Administrator, Captain, 2009 – Present)
-Captain and founding forum administrator (1,139 posts). RedFlag was an essential pillar during the initial setup of `combatexpertsclan.com`, managing backend databases, board permissions, and moderation policies.
+#### «CE»RedFlag (The Steam Pioneer & Administrator, Major, Revered, 2009 – Present)
+Author of 1,139 posts. Transitioning from the InvisionFree era, RedFlag served as a senior forum administrator, RCON server enforcer, and application evaluator. In 2010, clan patriarch «CE»Addict officially promoted him to Major and invested him with the Fancy Tags (`«CE»RedFlag`) (Topic #1739: *"The Clan has decided that another member has earned the right to wear the fancy tags. Please welcome RedFlag as our newest Major"*). An avid PC enthusiast, RedFlag co-founded and managed the clan's Steam community across titles like *Team Fortress 2*, *Half-Life 2*, and Source mods, and was subsequently inducted into the Revered Hall of Fame.
 
 #### =CE= Chris (The Event Overseer, Captain, Modern Officer, 2009 – Present)
 Captain and administrator (980 posts). Chris served as a key administrative officer, managing tryout servers, executing server resets, and supervising clan tryouts and events. He continues his administrative presence in the modern Discord era as an active Officer.
 
 #### =CE=Durelle (The Unstoppable Sniper, Captain, Modern Officer, 2009 – Present)
 Canadian web technician and competitive marksman (538 posts). Rising to Captain and administrator, his lethal sniping precision was so feared that clan mates jokingly accused him of running an automated hack called *"Durelle.exe"*. He remains a cornerstone of the active Officer Corps in the Discord era.
-Canadian web technician and competitive marksman (538 posts). Rising to Captain and administrator, his lethal sniping precision was so feared that clan mates jokingly accused him of running an automated hack called *"Durelle.exe"*.
 
 #### =CE=Sagino (The International Guardian, Captain, 2010 – Present)
 Captain and server administrator (534 posts). Sagino was a dedicated enforcer on the Ambush server, known for his vigilance against exploiters and his active participation in the RCON Squad documentaries.
