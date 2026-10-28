@@ -241,7 +241,7 @@ Following the conclusion of the forum's active history in early 2022, the clan c
   - *Streamlined Recruitment & Observation:* Aspiring Spartans apply directly within dedicated Discord channels or during live events attended by an Officer. Accepted applicants receive the historic probationary `-CE-` tag and the Member Discord role. Over an active one-week observation period, the community reviews their demeanor; if conduct remains honorable and no objections are raised, the dashes are dropped and the recruit is awarded the full `=CE=` tags.
   - *Member Autonomy & Interest Groups:* Recognizing that veterans now balance careers, families, and adult responsibilities, rigid forum activity quotas were formally abolished. Full members participate at their leisure and are encouraged to form and join specialized interest Groups.
   - *A Proportional Officer Corps:* The Officer corps was reorganized on a proportional ratio relative to total clan size. Candidates are nominated by peers based on merit and passion for leadership, confirmed by vote. To maintain an active leadership pulse, Officers are expected to attend at least one clan event or contribute on Discord monthly.
-  - *Decentralized Server Stewardship:* Centralized administrative rosters were replaced with decentralized community hosting. Members who host servers for the clan administrate at their leisure under clan guidelines, ensuring `=CE=` servers remain welcoming and cheat-free without bureaucratic overhead.
+  - *Independent Server Administration:* With the retirement of dedicated forum administrator roles, members who host servers for the clan administrate at their leisure under clan guidelines.
 - **«CE»Chance as Leader:** With the sunset of the website, **«CE»Addict** formally designated **«CE»Chance as the Leader of the Combat Experts Clan**. A foundational pillar of reason, intellect, and leadership since May 9, 2009, Chance helms the modern Discord era, guiding `=CE=` into the future alongside `«CE»Addict` and `«CE»Toxic` (Leader rank).
 ---
 
@@ -316,7 +316,7 @@ Adopted with the retirement of web forums, the modern charter instituted a strea
 │                   │             │ Elected by Leaders; monthly presence.│
 │                   │             │ «CE»Chance serves as The Leader.     │
 ├───────────────────┼─────────────┼──────────────────────────────────────┤
-│ Officer           │ =CE=        │ Operational stewardship.             │
+│ Officer           │ =CE=        │ Operational and event coordination.  │
 │                   │             │ Nominated on merit; voted by peers.  │
 │                   │             │ Monthly Discord/event participation. │
 ├───────────────────┼─────────────┼──────────────────────────────────────┤
@@ -325,9 +325,6 @@ Adopted with the retirement of web forums, the modern charter instituted a strea
 ├───────────────────┼─────────────┼──────────────────────────────────────┤
 │ Recruit           │ -CE-        │ Probationary status (1-week trial).  │
 │                   │             │ Voted to full =CE= upon completion.  │
-├───────────────────┼─────────────┼──────────────────────────────────────┤
-│ Server Stewards   │ Custom      │ Independent hosters managing servers │
-│                   │             │ at their leisure under guidelines.   │
 └───────────────────┴─────────────┴──────────────────────────────────────┘
 ```
 
